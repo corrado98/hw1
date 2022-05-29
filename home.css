@@ -1,0 +1,150 @@
+nav, footer{
+    display:flex;
+    justify-content:space-around;
+    background-color:white;
+    border: 3px #f8f8ff solid;
+    padding: 20px;
+    border-radius:15px;
+    background-color:lightgray;
+  margin-bottom: 3px;
+  }
+footer{
+margin-top: 20px;
+}
+  .hidden, .hidden2{
+    display:none;
+  }
+
+  .welcome{
+    font-weight: bold;
+   }
+
+body{
+  background-color: #f8f8ff;
+  margin-top: 0px;
+}
+
+.ric_1{
+  margin-top: 0%;
+  background-color: #f8f8ff;
+  display: flex;
+  align-items: center;
+  
+}
+
+.ric_1 p{
+  width: 130%;
+  max-width: 130%;
+}
+label{
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0 5px 0;
+  font-weight: bold;
+}
+form{
+  margin-left: 200px;
+}
+
+#img1, #img2{
+  border: 2px solid #f8f8ff;
+}
+
+
+#cont{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img{
+  width: 650px;
+  height: 350px;
+}
+
+.welcome{
+  font-size: large;
+  display: flex;
+  justify-content: space-between;
+}
+
+.welcome a{
+  color: red;
+  text-decoration: underline;
+}
+
+#err_p, #errp2{
+  color: red;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#tit{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#sect{
+  display: flex;
+  flex-direction: column;
+}
+
+.results, .results2{
+  display: flex;
+  margin-top: 10px;
+  background-color: #f8f8ff;
+}
+
+.results img, .results2 img{
+  height: 350px;
+  width: 500px;
+}
+
+.bu, .bu2{
+  height:26px;
+  margin-top: 4px;
+  margin-left: 4px;
+  margin-bottom: 4px;
+}
+
+.contenitore div{
+  margin-top:25px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.Err{
+  font-weight: bold;
+  color:red;
+}
+
+#logo{
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  margin-top:0px;
+}
+
+#logo img{
+  width: 350px;
+  height: 350px;
+}
+
+.Ris_t{
+  color:red;
+  font-size: x-large;
+  font-weight: bold;
+  margin: 10px 2px;
+  display: flex;
+justify-content: center;
+}
+
+.contenitore{
+  margin-left: 80px;
+  margin-top: 30px;
+}
+
+#avviso{
+  font-weight: bold;
+  font-size: medium;
+}

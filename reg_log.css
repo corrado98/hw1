@@ -1,0 +1,40 @@
+img{
+    width: 160px;
+    height: 160px;
+    margin-bottom: 20px;
+}
+body{
+    background-color: #b2dfee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    margin-top: 0%;
+    width: 50%;
+    background-color: #f8f8ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p{
+    width: 220px;
+}
+label{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0 5px 0;
+}
+
+.errori, .errori2, .errori3, .errori4, .es{
+    font-weight: bold;
+    color: red;
+}
+
+.hidden{
+    display:none;
+}
+
+#loghi{
+    display: flex;
+}
